@@ -1,0 +1,6 @@
+plugins { id 'com.android.application' }
+android {
+    namespace 'com.example.dragontailscaleboot'
+    compileSdk 35
+    defaultConfig { applicationId 'com.example.dragontailscaleboot'; minSdk 23; targetSdk 25; versionCode 1; versionName '1.0' }
+}
